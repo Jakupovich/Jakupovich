@@ -1,5 +1,5 @@
  
-<h3 align="left">👋 | @Norda</h1> <img align="right" src="https://media.tenor.com/d6e-Rvp97dEAAAAM/monkey-gangster-monkey.gif" alt="Programmation" width="300" height="200"/>
+<h3 align="left">👋 | @Norda</h1> <img type="video/mp4" align="right" src="https://media.tenor.com/d6e-Rvp97dEAAAAM/monkey-gangster-monkey.gif" alt="Programmation" width="300" height="200"/>
 <h3 align="left">👀 | Web Development</h3>
 <h3 align="left">🌱 | Bosnia and Herzgovina </h3>
 <h3 align="left">📫 | jakupoviich@gmail.com | Tomić#9076</h3>
