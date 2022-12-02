@@ -1,8 +1,8 @@
 
-<h3 align="left">👋 @Norda</h1>
-<h3 align="left">👀 Web Development</h3>
-<h3 align="left">🌱 Bosnia and Herzgovina </h3>
-<h3 align="left">📫 jakupoviich@gmail.com | Tomić#9076</h3>
+<h3 align="left">👋 | @Norda</h1>
+<h3 align="left">👀 | Web Development</h3>
+<h3 align="left">🌱 | Bosnia and Herzgovina </h3>
+<h3 align="left">📫 | jakupoviich@gmail.com | Tomić#9076</h3>
 
 
 
